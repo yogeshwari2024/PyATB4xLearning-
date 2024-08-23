@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78ceed49-e294-4bb3-81b4-a75d3135d9a0" name="Changes" comment="Task1 and Task2 of 13th August are added and uploaded into Github new account">
-      <change afterPath="$PROJECT_DIR$/src/ex17082024/lab0024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex17082024/lab0025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex17082024/lab0026.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex17082024/lab0027.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex17082024/task3.py" afterDir="false" />
+    <list default="true" id="78ceed49-e294-4bb3-81b4-a75d3135d9a0" name="Changes" comment="all the files are added 17th of august into the repo">
+      <change afterPath="$PROJECT_DIR$/src/ex20082024/Grade calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex20082024/Task7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex20082024/conditions&amp;loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex20082024/max 3 numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex20082024/max nmber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,12 +52,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Grade calculator.executor": "Debug",
     "Python.Lab001.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task2.executor": "Run",
+    "Python.conditions&loop.executor": "Run",
     "Python.lab0024.executor": "Run",
     "Python.lab0026.executor": "Run",
     "Python.lab0027.executor": "Run",
+    "Python.max 3 numbers.executor": "Run",
+    "Python.max nmber.executor": "Run",
     "Python.task3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -70,8 +74,8 @@
       <recent name="C:\Users\User\PycharmProjects\PyATB4xLearning\src\ex..10082024\copied" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task3">
-    <configuration name="Task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.max 3 numbers">
+    <configuration name="Grade calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex..10082024/13th Aug task" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex20082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex..10082024/13th Aug task/Task1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex20082024/Grade calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -93,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lab0024" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="conditions&amp;loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,55 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex17082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex20082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex17082024/lab0024.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lab0026" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB4xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex17082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex17082024/lab0026.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="lab0027" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB4xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex17082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex17082024/lab0027.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex20082024/conditions&amp;loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,6 +133,50 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="max 3 numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex20082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex20082024/max 3 numbers.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="max nmber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex20082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex20082024/max nmber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,11 +209,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.max 3 numbers" />
+        <item itemvalue="Python.Grade calculator" />
+        <item itemvalue="Python.max nmber" />
+        <item itemvalue="Python.conditions&amp;loop" />
         <item itemvalue="Python.task3" />
-        <item itemvalue="Python.lab0027" />
-        <item itemvalue="Python.lab0026" />
-        <item itemvalue="Python.lab0024" />
-        <item itemvalue="Python.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +249,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723744841337</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="all the files are added 17th of august into the repo">
+      <option name="closed" value="true" />
+      <created>1723984209392</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723984209392</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -289,7 +301,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task1 and Task2 of 13th August are added and uploaded into Github" />
     <MESSAGE value="Task1 and Task2 of 13th August are added and uploaded into Github new account" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task1 and Task2 of 13th August are added and uploaded into Github new account" />
+    <MESSAGE value="all the files are added 17th of august into the repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="all the files are added 17th of august into the repo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
