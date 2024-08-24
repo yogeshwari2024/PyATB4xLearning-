@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78ceed49-e294-4bb3-81b4-a75d3135d9a0" name="Changes" comment="all the files are added 20th of august into the repo" />
+    <list default="true" id="78ceed49-e294-4bb3-81b4-a75d3135d9a0" name="Changes" comment="cube and square py program added">
+      <change afterPath="$PROJECT_DIR$/src/ex22082024/Continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex22082024/Even_program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex22082024/Match statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex22082024/break.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex22082024/for loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex22082024/program.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex22082024/while loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex24082024/FizzBuzz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex24082024/Triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex24082024/func with arguments, parameter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex24082024/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex24082024/leap year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex24082024/prg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex24082024/user defined functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,32 +59,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Grade calculator.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conditions&amp;loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab0024.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab0026.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lab0027.executor&quot;: &quot;Run&quot;,
-    &quot;Python.max 3 numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.max nmber.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task3.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/PycharmProjects/PyATB4xLearning/src/ex..10082024/copied&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Continue.executor": "Run",
+    "Python.Even_program.executor": "Run",
+    "Python.FizzBuzz.executor": "Run",
+    "Python.Grade calculator.executor": "Debug",
+    "Python.Lab001.executor": "Run",
+    "Python.Match statement.executor": "Run",
+    "Python.Task1.executor": "Run",
+    "Python.Task2.executor": "Run",
+    "Python.Traiangle classifier.executor": "Run",
+    "Python.Triangle (1).executor": "Run",
+    "Python.break.executor": "Run",
+    "Python.conditions&loop.executor": "Run",
+    "Python.cube and square.executor": "Run",
+    "Python.for loop.executor": "Run",
+    "Python.func with arguments, parameter.executor": "Run",
+    "Python.functions.executor": "Run",
+    "Python.lab0024.executor": "Run",
+    "Python.lab0026.executor": "Run",
+    "Python.lab0027.executor": "Run",
+    "Python.leap year.executor": "Run",
+    "Python.max 3 numbers.executor": "Run",
+    "Python.max nmber.executor": "Run",
+    "Python.prg (1).executor": "Run",
+    "Python.program (1).executor": "Run",
+    "Python.program.executor": "Run",
+    "Python.task3.executor": "Run",
+    "Python.user defined functions.executor": "Run",
+    "Python.while loop.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/User/PycharmProjects/PyATB4xLearning/src/ex..10082024/copied",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\PyATB4xLearning\src\ex..10082024\copied" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.cube and square">
-    <configuration name="Grade calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.FizzBuzz">
+    <configuration name="FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex20082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex24082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex20082024/Grade calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex24082024/FizzBuzz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="conditions&amp;loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Triangle (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,11 +132,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex20082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex24082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex20082024/conditions&amp;loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex24082024/Triangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +145,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="cube and square" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="leap year" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex20082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex24082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex20082024/cube and square.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex24082024/leap year.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -156,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="max 3 numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="prg (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,11 +198,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex20082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex24082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex20082024/max 3 numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex24082024/prg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +211,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="max nmber" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="user defined functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -187,11 +220,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex20082024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex24082024" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex20082024/max nmber.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex24082024/user defined functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +235,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.cube and square" />
-        <item itemvalue="Python.max 3 numbers" />
-        <item itemvalue="Python.Grade calculator" />
-        <item itemvalue="Python.max nmber" />
-        <item itemvalue="Python.conditions&amp;loop" />
+        <item itemvalue="Python.FizzBuzz" />
+        <item itemvalue="Python.leap year" />
+        <item itemvalue="Python.user defined functions" />
+        <item itemvalue="Python.Triangle (1)" />
+        <item itemvalue="Python.prg (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724433786006</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="cube and square py program added">
+      <option name="closed" value="true" />
+      <created>1724434390296</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724434390296</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -304,7 +345,8 @@
     <MESSAGE value="Task1 and Task2 of 13th August are added and uploaded into Github new account" />
     <MESSAGE value="all the files are added 17th of august into the repo" />
     <MESSAGE value="all the files are added 20th of august into the repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="all the files are added 20th of august into the repo" />
+    <MESSAGE value="cube and square py program added" />
+    <option name="LAST_COMMIT_MESSAGE" value="cube and square py program added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
