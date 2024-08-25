@@ -4,21 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="78ceed49-e294-4bb3-81b4-a75d3135d9a0" name="Changes" comment="cube and square py program added">
-      <change afterPath="$PROJECT_DIR$/src/ex22082024/Continue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex22082024/Even_program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex22082024/Match statement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex22082024/break.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex22082024/for loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex22082024/program.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex22082024/while loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex24082024/FizzBuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex24082024/Triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex24082024/func with arguments, parameter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex24082024/functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex24082024/leap year.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex24082024/prg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex24082024/user defined functions.py" afterDir="false" />
+    <list default="true" id="78ceed49-e294-4bb3-81b4-a75d3135d9a0" name="Changes" comment="Aug 22 and 24th are added">
+      <change afterPath="$PROJECT_DIR$/src/ex24082024/Factorial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +50,7 @@
   "keyToString": {
     "Python.Continue.executor": "Run",
     "Python.Even_program.executor": "Run",
+    "Python.Factorial.executor": "Run",
     "Python.FizzBuzz.executor": "Run",
     "Python.Grade calculator.executor": "Debug",
     "Python.Lab001.executor": "Run",
@@ -100,7 +88,29 @@
       <recent name="C:\Users\User\PycharmProjects\PyATB4xLearning\src\ex..10082024\copied" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.FizzBuzz">
+  <component name="RunManager" selected="Python.Factorial">
+    <configuration name="Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyATB4xLearning" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex24082024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex24082024/Factorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
@@ -189,28 +199,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="prg (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyATB4xLearning" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex24082024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/ex24082024/prg.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="user defined functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyATB4xLearning" />
       <option name="ENV_FILES" value="" />
@@ -235,11 +223,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Factorial" />
         <item itemvalue="Python.FizzBuzz" />
         <item itemvalue="Python.leap year" />
         <item itemvalue="Python.user defined functions" />
         <item itemvalue="Python.Triangle (1)" />
-        <item itemvalue="Python.prg (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +287,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724434390296</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Aug 22 and 24th are added">
+      <option name="closed" value="true" />
+      <created>1724508286849</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724508286849</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -346,7 +342,8 @@
     <MESSAGE value="all the files are added 17th of august into the repo" />
     <MESSAGE value="all the files are added 20th of august into the repo" />
     <MESSAGE value="cube and square py program added" />
-    <option name="LAST_COMMIT_MESSAGE" value="cube and square py program added" />
+    <MESSAGE value="Aug 22 and 24th are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aug 22 and 24th are added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
